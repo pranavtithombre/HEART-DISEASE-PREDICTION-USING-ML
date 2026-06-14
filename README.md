@@ -67,4 +67,6 @@ Model Accuracy: XX%
 
 ## Author
 
+Pranavti Thombre
+
 Your Name
